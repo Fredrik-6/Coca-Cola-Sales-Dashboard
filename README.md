@@ -10,9 +10,9 @@ The dashboard was designed to offer a comprehensive view of Coca-Cola's sales me
 
 Key Features:
 
-- Sales Performance Analysis: Visualized overall sales trends and growth patterns over time, helping to identify peak periods and low-performing months.
+- Sales Performance Analysis: Visualised overall sales trends and growth patterns over time, helping to identify peak periods and low-performing months.
 
-- Regional Breakdown: Analyzed sales performance across different regions, enabling comparisons between geographic areas and identifying regional leaders.
+- Regional Breakdown: Analysed sales performance across different regions, enabling comparisons between geographic areas and identifying regional leaders.
 
 - Channel Analysis: Evaluated sales across different sales channels (e.g., retail, wholesale), providing insights into which channels contributed the most to overall sales.
 
@@ -26,5 +26,5 @@ The data was sourced from Kaggle, and significant cleaning and preparation were 
 
 Tools and Technologies:
 
-- Power BI: Used for creating visualizations and building the dashboard.
-- Excel: Assisted in the initial data cleaning and organization.
+- Power BI: Used for creating visualisations and building the dashboard.
+- Excel: Assisted in the initial data cleaning and organisation.
