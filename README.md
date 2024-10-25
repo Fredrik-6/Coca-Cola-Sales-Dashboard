@@ -2,7 +2,7 @@
 
 Coca-Cola Sales Dashboard Project
 
-This project involved creating an interactive Power BI dashboard to analyze Coca-Cola sales data. The goal was to provide insights into sales performance across different regions and channels, helping identify key trends and growth opportunities.
+This project involved creating an interactive Power BI dashboard to analyse Coca-Cola sales data. The goal was to provide insights into sales performance across different regions and channels, helping identify key trends and growth opportunities.
 
 Project Overview
 
@@ -17,8 +17,10 @@ KPIs and Metrics: The dashboard displayed key performance indicators such as tot
 Data Filters: Included interactive filters to allow users to explore the data in detail, such as filtering by specific regions, time periods, or sales channels.
 
 Data Source and Preparation:
+
 The data was sourced from Kaggle, and significant cleaning and preparation were done to ensure high data quality. Data transformation techniques were applied to handle missing values, format the data consistently, and prepare it for analysis.
 
 Tools and Technologies:
+
 Power BI: Used for creating visualizations and building the dashboard.
 Excel: Assisted in the initial data cleaning and organization.
